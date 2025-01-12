@@ -77,6 +77,7 @@ body {
   margin-top: 0.2em;
 }
 
+
 /* Section Styling */
 .section {
   padding: 6em 2em;
@@ -353,28 +354,54 @@ body {
 }
 
 /* Colores personalizados para cada sección */
+
+
 .hero {
   background-color: #2d4051; /* Color de fondo del héroe */
+}
+#hero {
+  text-align: center; /* Centra todo el contenido de la sección */
+  margin: 20px 0;
 }
 
 .story-box {
   background-color: #646885; /* Color de fondo de la caja de historia */
 }
+#story-box {
+  text-align: center; /* Centra todo el contenido de la sección */
+  margin: 20px 0;
+}
 
 .details {
   background-color: #516276; /* Fondo de la sección de detalles */
+}
+#details {
+  text-align: center; /* Centra todo el contenido de la sección */
+  margin: 20px 0;
 }
 
 .countdown {
   background-color: #8c9dad; /* Fondo de la sección de cuenta regresiva */
 }
-
+#countdown{
+  text-align: center; /* Centra todo el contenido de la sección */
+  margin: 20px 0;
+}
 .guests {
-  background-color: #2d4051; /* Fondo de la sección de invitados */
+  background-color: #516276; /* Fondo de la sección de invitados */
+}
+#guests {
+  text-align: center; /* Centra todo el contenido de la sección */
+  margin: 20px 0;
 }
 
 .gifts {
   background-color: #646885; /* Fondo de la sección de regalos */
+}
+
+#gifts {
+  text-align: center; /* Centra todo el contenido de la sección */
+  margin: 20px 0;
 }
 
 /* Ajustes para pantallas pequeñas */
